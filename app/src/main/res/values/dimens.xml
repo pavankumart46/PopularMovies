@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_dimension">10dp</dimen>
+    <dimen name="margin_left_right_dimension">5dp</dimen>
+    <dimen name="image_view_width_dimension">150dp</dimen>
+    <dimen name="image_view_height_dimension">175dp</dimen>
+    <dimen name="ideal_text_size_project_dimen">16sp</dimen>
+    <dimen name="recyclerview_margin_dimen">8dp</dimen>
+    <dimen name="text_margin_dimen">5dp</dimen>
+    <dimen name="movie_title_detail_dimen">20sp</dimen>
+    <dimen name="detail_image_poster_dimen">200dp</dimen>
+    <dimen name="dimen_text_review_by">14sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

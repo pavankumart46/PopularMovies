@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="alert_title">Please Check Your Internet Connection!</string>
+    <string name="tools_text_movie_title">Title Goes Here</string>
+    <string name="release_date_primary_string">Release:</string>
+    <string name="user_rating_primary">User Rating:</string>
+    <string name="plot_synopsis_primary">Plot Synopsis:</string>
+    <string name="alert_box_message">Please enable your internet to further Proceed</string>
+    <string name="alert_pos_button_text">OK</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="movie_title_primary">Movie Title :</string>
+    <string name="video_title">Video Name</string>
+    <string name="total_reviews_available">Total Reviews Available :</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="reviews">Reviews</string>
+    <string name="videos_label">Videos Related to Movie</string>
+    <string name="favourites">Favourites</string>
+    <string name="settings">Settings</string>
+</resources>
